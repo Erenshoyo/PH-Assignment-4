@@ -13,5 +13,3 @@ console.log(cashOut(-350));
 console.log(cashOut(0));
 console.log(cashOut("101"));
 console.log(cashOut("mewauu"));
-
-
